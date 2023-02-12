@@ -16,7 +16,7 @@ A python script to extract transactions data from Coverflex and save it as a CSV
 - Click the green "Clone or download" button on the right side of the repository page.
 - Choose "Download ZIP".
 - Extract the contents of the downloaded .zip file.
-- Open the terminal or command prompt and navigate to the directory where you extracted the files.
+- Open the terminal or command prompt and navigate to the directory of the repository.
 
 ## How to Install Required Libraries
 1. Make sure you have Python 3 installed. If you don't, you can download it from the official Python website (https://www.python.org/downloads/)
