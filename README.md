@@ -21,7 +21,7 @@ A python script to extract transactions data from Coverflex and save it as a CSV
 ## How to Install Required Libraries
 1. Make sure you have Python 3 installed. If you don't, you can download it from the official Python website (https://www.python.org/downloads/)
 2. Open the terminal or command prompt and navigate to the directory where you extracted the files.
-3. Type pip install -r requirements.txt and press enter.
+3. Type `pip install -r requirements.txt` and press enter.
 
 ## How to Set Up Chromedriver
 1. Download the Chromedriver executable that matches your Google Chrome browser version from the Chromedriver downloads page (https://sites.google.com/chromium.org/driver/downloads).
