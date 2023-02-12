@@ -36,7 +36,7 @@ A python script to extract transactions data from Coverflex and save it as a CSV
 ## How to Run the Script
 1. Open the terminal or command prompt and navigate to the directory where you extracted the files.
 2. Type `python scrapper.py` and press enter.
-3. The script will open a new Chrome window, log into Coverflex, extract your transactions, and save them to a .csv file in the same directory.
+3. The script will open a new Chrome window, log into Coverflex, extract your transactions, and save them to a .csv file in the Downloads directory.
 
 ## Troubleshooting
 1. Make sure that you are using the correct version of Chromedriver for your Google Chrome browser.
