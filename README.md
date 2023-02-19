@@ -20,7 +20,12 @@ A python script to extract transactions data from Coverflex and save it as a CSV
 
 ## How to Install Required Libraries
 1. Make sure you have Python 3 installed. If you don't, you can download it from the official Python website (https://www.python.org/downloads/)
-2. Open the terminal or command prompt and navigate to the directory where you extracted the files.
+    
+    1.1. Make sure you select the following while installing:
+        ![This is an image](https://cdn.mos.cms.futurecdn.net/vDhoqs4LXbBTF8cEpBTnZU-1200-80.png)
+        ![This is an image](https://cdn.mos.cms.futurecdn.net/AksLEj9diLtoAwY4qJfH7V-1200-80.png)
+        
+2. Open the terminal or command prompt and navigate to the directory where you extracted the files. E.g. `cd C:\CoverFlexToCSV-main`
 3. Type `pip install -r requirements.txt` and press enter.
 
 ## How to Set Up Chromedriver
@@ -34,9 +39,9 @@ A python script to extract transactions data from Coverflex and save it as a CSV
 3. Save and close the credentials.txt file.
 
 ## How to Run the Script
-1. Open the terminal or command prompt and navigate to the directory where you extracted the files.
+1. Open the terminal or command prompt and navigate to the directory where you extracted the files. `cd C:\CoverFlexToCSV-main`
 2. Type `python scrapper.py` and press enter.
-3. The script will open a new Chrome window, log into Coverflex, extract your transactions, and save them to a .csv file in the Downloads directory.
+3. The script will open a new Chrome window, log into Coverflex, extract your transactions, and save them to a .csv file in the **Downloads** directory.
 
 ## Troubleshooting
 1. Make sure that you are using the correct version of Chromedriver for your Google Chrome browser.
