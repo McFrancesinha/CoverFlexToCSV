@@ -1,5 +1,5 @@
 # Extract Transactions from Coverflex to CSV
-A python script to extract transactions data from Coverflex and save it as a CSV file. This guide is designed to help beginners who are new to Python.
+A python script to extract transactions data from Coverflex (https://my.coverflex.com/) and save it as a CSV file. This guide is designed to help beginners who are new to Python.
 
 ## Requirements
 - Python 3.6 or higher
